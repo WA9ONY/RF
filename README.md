@@ -32,6 +32,7 @@ The RSDN-20, also known as "Alpha", is a Russian long-range radio navigation sys
 
 During the lesson, I would also incorporate visual aids such as maps showing the locations of transmitter stations and diagrams illustrating how the system works, to provide a comprehensive view of the topic.
 
+## The frequencies and the coordinates of the transmitting stations
 
 The RSDN-20 system had several transmitting stations operating at different frequencies. Here are the details of some of these stations including their coordinates and frequencies:
 
@@ -65,35 +66,44 @@ The RSDN-20 system had several transmitting stations operating at different freq
 
 Please note that the information regarding the exact frequencies and locations might vary, and it would be beneficial to refer to detailed historical or technical documentation for precise data. Moreover, these stations might not be operational anymore as the system was gradually phased out with the rise of more advanced navigation technologies.
 
+## The distance to Portland, Oregon
+ 
 To calculate the distance between Portland, Oregon (45.5051° N, 122.6750° W) and each station, we can use the haversine formula, which calculates the distance between two points on the Earth given their longitude and latitude. Here are the distances to each station:
 
 1. **Krasnodar (Anapa)**
    - Coordinates: 44.9966° N, 37.3473° E
    - Distance: ~9223 km
-
+   - Distance in miles: ~5731 miles
+     
 2. **Revda (Ekaterinburg)**
    - Coordinates: 56.7558° N, 59.9306° E
    - Distance: ~8697 km
+   - Distance in miles: ~5404 miles
 
 3. **Nizhny Novgorod (Krotovo)**
    - Coordinates: 56.2167° N, 44.0000° E
    - Distance: ~8427 km
+   - Distance in miles: ~5237 miles
 
 4. **Arkhangelsk (Sosnovka)**
    - Coordinates: 64.5422° N, 40.5372° E
    - Distance: ~7541 km
+   - Distance in miles: ~4685 miles
 
 5. **Vladivostok**
    - Coordinates: 43.1056° N, 131.8735° E
    - Distance: ~7976 km
+   - Distance in miles: ~4958 miles
 
 6. **Severomorsk (Kola Peninsula)**
    - Coordinates: 69.0731° N, 33.4162° E
    - Distance: ~7259 km
+   - Distance in miles: ~4510 miles
 
 7. **Komsomolsk-on-Amur**
    - Coordinates: 50.5516° N, 137.0152° E
    - Distance: ~7594 km
+   - Distance in miles: ~4716 miles
 
 Note: The distances are approximate and have been rounded to the nearest kilometer. The haversine formula was used to calculate these distances.
 
