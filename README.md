@@ -1,4 +1,4 @@
-# RF: Radio Frequencies
+# RF: Radio Frequencies Notes
 
 The electromagnetic spectrum is vast, and the radio frequency (RF) portion covers a wide range of both wavelengths and frequencies. Here's a general breakdown:
 
