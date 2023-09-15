@@ -30,6 +30,8 @@ For a more detailed perspective, the radio frequency spectrum is often divided i
 
 The terms "radio waves" or "radio frequencies" commonly refer to the entire range from 3 kHz up to 300 GHz. Beyond 300 GHz, we enter the realm of terahertz radiation, infrared, and visible light.
 
+U.S. Frequency Allocation Chart [PDF](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf)
+
 ## VLF: **Very Low Frequency (VLF)**: 3 to 30 kHz
 
 ### VLF: RSDN-20: Russian Alpha long-range radio navigation system
