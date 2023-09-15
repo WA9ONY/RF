@@ -32,7 +32,7 @@ The terms "radio waves" or "radio frequencies" commonly refer to the entire rang
 
 ## VLF: **Very Low Frequency (VLF)**: 3 to 30 kHz
 
-## VLF: RSDN-20, also known as "Alpha", is a Russian long-range radio navigation system
+### VLF: RSDN-20: Russian Alpha long-range radio navigation system
 
 The Russian Alpha long-range radio navigation system is the lowest radio signals I have received.  
 
@@ -64,7 +64,7 @@ The RSDN-20, also known as "Alpha", is a Russian long-range radio navigation sys
 
 During the lesson, I would also incorporate visual aids such as maps showing the locations of transmitter stations and diagrams illustrating how the system works, to provide a comprehensive view of the topic.
 
-## The frequencies and the coordinates of the transmitting stations
+#### The frequencies and the coordinates of the transmitting stations
 
 The RSDN-20 system had several transmitting stations operating at different frequencies. Here are the details of some of these stations including their coordinates and frequencies:
 
@@ -98,7 +98,7 @@ The RSDN-20 system had several transmitting stations operating at different freq
 
 Please note that the information regarding the exact frequencies and locations might vary, and it would be beneficial to refer to detailed historical or technical documentation for precise data. Moreover, these stations might not be operational anymore as the system was gradually phased out with the rise of more advanced navigation technologies.
 
-## The distance to Portland, Oregon
+#### The distance to Portland, Oregon
  
 To calculate the distance between Portland, Oregon (45.5051° N, 122.6750° W) and each station, we can use the haversine formula, which calculates the distance between two points on the Earth given their longitude and latitude. Here are the distances to each station:
 
@@ -140,41 +140,11 @@ To calculate the distance between Portland, Oregon (45.5051° N, 122.6750° W) a
 Note: The distances are approximate and have been rounded to the nearest kilometer. The haversine formula was used to calculate these distances.
 
 
-To convert the distances from kilometers to miles, we can use the conversion factor 1 km = 0.621371 miles. Here are the converted distances for each station:
-
-1. **Krasnodar (Anapa)**
-   - Distance in km: ~9223 km
-   - Distance in miles: ~5731 miles
-
-2. **Revda (Ekaterinburg)**
-   - Distance in km: ~8697 km
-   - Distance in miles: ~5404 miles
-
-3. **Nizhny Novgorod (Krotovo)**
-   - Distance in km: ~8427 km
-   - Distance in miles: ~5237 miles
-
-4. **Arkhangelsk (Sosnovka)**
-   - Distance in km: ~7541 km
-   - Distance in miles: ~4685 miles
-
-5. **Vladivostok**
-   - Distance in km: ~7976 km
-   - Distance in miles: ~4958 miles
-
-6. **Severomorsk (Kola Peninsula)**
-   - Distance in km: ~7259 km
-   - Distance in miles: ~4510 miles
-
-7. **Komsomolsk-on-Amur**
-   - Distance in km: ~7594 km
-   - Distance in miles: ~4716 miles
-
-These distances are approximations, and have been rounded to the nearest mile.
+### The Russian RSDN-20 system versus the U.S. Omega Navigation System
 
 Certainly, let's compare the Russian RSDN-20 system and the U.S. Omega Navigation System:
 
-### Overview
+Overview
 
 - **RSDN-20 (Alpha)**
   - Country: Russia
@@ -186,7 +156,7 @@ Certainly, let's compare the Russian RSDN-20 system and the U.S. Omega Navigatio
   - Operational Period: It was in operation from 1971 until 1997.
   - Primary Use: Was a global radio navigation system used for both civilian and military aviation and maritime purposes.
 
-### Technical Aspects
+Technical Aspects
 
 - **RSDN-20**
   - Frequency Range: Operated in the very low frequency (VLF) range.
@@ -196,7 +166,7 @@ Certainly, let's compare the Russian RSDN-20 system and the U.S. Omega Navigatio
   - Frequency Range: Utilized very low frequency (VLF) bands as well, generally transmitting on frequencies between 10 to 14 kHz.
   - Signal Structure: The system transmitted continuous wave signals which were phase modulated to carry navigation information.
 
-### Network of Transmitter Stations
+Network of Transmitter Stations
 
 - **RSDN-20**
   - Geographic Spread: Consisted of several transmitter stations within Russian territory.
@@ -206,7 +176,7 @@ Certainly, let's compare the Russian RSDN-20 system and the U.S. Omega Navigatio
   - Geographic Spread: Omega was a global system with eight transmitting stations spread across several continents including North America, South America, Africa, and the Pacific.
   - Number of Stations: Eight main stations were established globally, enabling worldwide coverage.
 
-### Accuracy and Coverage
+Accuracy and Coverage
 
 - **RSDN-20**
   - Coverage: Mainly covered Russian territory and surrounding regions.
@@ -216,7 +186,7 @@ Certainly, let's compare the Russian RSDN-20 system and the U.S. Omega Navigatio
   - Coverage: Being a global system, it offered worldwide coverage.
   - Accuracy: It had a navigational accuracy of about 4 nautical miles, which was relatively good at the time.
 
-### Decommissioning and Legacy
+Decommissioning and Legacy
 
 - **RSDN-20**
   - The system was gradually phased out with the advancement of more sophisticated satellite-based navigation systems.
