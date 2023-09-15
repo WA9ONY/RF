@@ -1,8 +1,40 @@
-# RF
-RF: Radio Frequencies
+# RF: Radio Frequencies
 
+The electromagnetic spectrum is vast, and the radio frequency (RF) portion covers a wide range of both wavelengths and frequencies. Here's a general breakdown:
 
-## The RSDN-20, also known as "Alpha", is a Russian long-range radio navigation system
+**Radio Frequency (RF) Portion of the Electromagnetic Spectrum:**
+
+- **Starts:**
+  - **Wavelength:** Approximately 100 kilometers (km)
+  - **Frequency:** 3 kilohertz (kHz)
+
+- **Ends:**
+  - **Wavelength:** Around 1 millimeter (mm)
+  - **Frequency:** 300 gigahertz (GHz)
+
+However, it's essential to note that these boundaries are somewhat arbitrary and can vary slightly based on different sources or standards. 
+
+For a more detailed perspective, the radio frequency spectrum is often divided into bands:
+
+1. **Extremely Low Frequency (ELF)**: 3 to 30 Hz
+2. **Super Low Frequency (SLF)**: 30 to 300 Hz
+3. **Ultra Low Frequency (ULF)**: 300 Hz to 3 kHz
+4. **Very Low Frequency (VLF)**: 3 to 30 kHz
+5. **Low Frequency (LF)**: 30 to 300 kHz
+6. **Medium Frequency (MF)**: 300 kHz to 3 MHz
+7. **High Frequency (HF)**: 3 to 30 MHz
+8. **Very High Frequency (VHF)**: 30 to 300 MHz
+9. **Ultra High Frequency (UHF)**: 300 MHz to 3 GHz
+10. **Super High Frequency (SHF)**: 3 to 30 GHz
+11. **Extremely High Frequency (EHF)**: 30 to 300 GHz
+
+The terms "radio waves" or "radio frequencies" commonly refer to the entire range from 3 kHz up to 300 GHz. Beyond 300 GHz, we enter the realm of terahertz radiation, infrared, and visible light.
+
+## VLF: **Very Low Frequency (VLF)**: 3 to 30 kHz
+
+## VLF: RSDN-20, also known as "Alpha", is a Russian long-range radio navigation system
+
+The Russian Alpha long-range radio navigation system is the lowest radio signals I have received.  
 
 The RSDN-20, also known as "Alpha", is a Russian long-range radio navigation system that was used primarily for maritime and aerial navigation. Let's dive deeper into its details.
 
