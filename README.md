@@ -32,6 +32,7 @@ The terms "radio waves" or "radio frequencies" commonly refer to the entire rang
 
 - U.S. Frequency Allocation Chart [PDF](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf)
 - US Amateur Radio Bands chart [PDF](http://www.arrl.org/files/file/Regulatory/Band%20Chart/Band%20Chart.pdf)
+- JavaLab [Daylight Map](https://javalab.org/en/daylight_map_en/)
 
 ## VLF: **Very Low Frequency (VLF)**: 3 to 30 kHz
 
